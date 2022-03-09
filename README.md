@@ -1,6 +1,6 @@
 # Capstone-Project
 
-> This project, the capstone, is made at the end of each module in order to recap all skills we gain during the apprendship period. It helps  to master some skills and made researches about what seems not understanding during the program.
+> This project, the capstone, is made at the end of each module in order to recap all skills we gain during the apprendship period. It helps  to master some skills and made researches about what seems not understanding during the whole program.
 
 
 ![ciraganenicole github io_Capstone-Project_(Nest Hub)](https://user-images.githubusercontent.com/72297212/157456475-a36a92c0-a30c-42be-b43e-6ba733abaf33.png)
