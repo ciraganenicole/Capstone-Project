@@ -38,7 +38,7 @@ const speaker2 = {
 };
 const speaker3 = {
 
-  image: './images/Lavanya.jpeg',
+  image: './images/Lavanya.jpg',
   name: 'Michael',
   resume: 'Software architecture',
   article: 'Michael is a programmer since 2006, he has several years of experience and during the period he learnt differents approch on webiste devlopment and author of programming courses on LinkedIn Learning.',
@@ -52,7 +52,7 @@ const speaker4 = {
 };
 const speaker5 = {
 
-  image: './images/Lavanya.jpeg',
+  image: './images/Lavanya.jpg',
   name: 'Tina',
   resume: 'Project manager',
   article: 'Tina is lead Instructor, a Master student in Data Science ar UC Berkeley, a coding instructor at the coder school Berkeley, and author of programming courses on LinkedIn Learning.',
