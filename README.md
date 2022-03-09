@@ -1,4 +1,4 @@
- home-page
+
 # First-Capstone-Project
 
 > This project, the capstone, is made at the end of each module in order to recap all skills we gain during the apprendship period. It helps  to master some skills and made researches about what seems not understanding during the whole program.
@@ -75,5 +75,3 @@ Give a ⭐️ if you like this project!
 This project is not licensed.
 
 # Capstone-Project
-
- main
