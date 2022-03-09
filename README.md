@@ -23,7 +23,7 @@
 
 To get a local copy up and run:
 
-- git clone [git@github.com:ciraganenicole/Capstone-Project.git](git@github.com:ciraganenicole/Capstone-Project.git) in your terminal
+- git clone git@github.com:ciraganenicole/Capstone-Project.git   in your terminal
 
 ### Prerequisites
 
