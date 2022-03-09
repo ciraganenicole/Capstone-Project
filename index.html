@@ -3,45 +3,115 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="stylesheet" href="style.css">
     <title>Document</title>
+
+    <script src="https://kit.fontawesome.com/f6777e9957.js" crossorigin="anonymous"></script>
+    <script type='module' src="./src/script.js"></script>
+
 </head>
 
 <body>
+
     <header>
-        <nav>
+        <div class="header">
             <ul class="first-navbar">
                 <li>
-                    <a href=""><img src="./images/facebook.png" alt="Facebook"></a>
+                    <a href="" class="white"><i class="fa fa-facebook"></i></a>
                 </li>
                 <li>
-                    <a href=""><img src="./images/twitter.png" alt="twitter"></a>
+                    <a href="" class="white"><i class="fa fa-twitter"></i></a>
                 </li>
-                <li><a href="">English</a></li>
-                <li><a href="">My Page</a></li>
-                <li><a href="">Logout</a></li>
+                <li><a href="" class="white">English</a></li>
+                <li><a href="" class="white">My Page</a></li>
+                <li><a href="" class="white">Logout</a></li>
             </ul>
+            <ul class="secon-navbar">
+                <li>
+                    <a href="./index.html"><img src="./images/hackathon.png" alt="" class="image-logo"></a>
+                </li>
+                <li><a href="./index.html" class="black about">Home</a></li>
+                <li><a href="./about.html" class="black">About</a></li>
+                <li><a href="" class="black">Program</a></li>
+                <li><a href="" class="black">Join</a></li>
+                <li><a href="" class="black">Projects</a> </li>
+                <li><a href="#partners" class="black change">Sponsor</a></li>
+            </ul>
+        </div>
+        <nav class="heade">
+            <div class="Hamburger d-flex flex-center">
+                <img src="./images/Hamburger.png" class="show-menu-btn" alt="Show menu">
+                <img src="./images/closeTab.svg" class="close-menu-btn" alt="close menu">
+                <ul class="second-navbar header hide">
+                    <li>
+                        <a href="./index.html"><img src="./images/hackathon.png" alt="" class="image-logo"></a>
+                    </li>
+                    <li><a href="./index.html" class="black about">Home</a></li>
+                    <li><a href="./about.html" class="black">About</a></li>
+                    <li><a href="" class="black">Program</a></li>
+                    <li><a href="" class="black">Join</a></li>
+                    <li><a href="" class="black">Projects</a> </li>
+                    <li><a href="#partners" class="black change">Sponsor</a></li>
+                </ul>
 
-            <ul class="second-navbar">
-                <li>
-                    <a href=""><img src="./images/logo.png" alt="Facebook"></a>
-                </li>
-                <li><a href="">About</a></li>
-                <li><a href="">Program</a></li>
-                <li><a href="">Join</a></li>
-                <li><a href="">Sponsor</a></li>
-                <li><a href="">News</a> </li>
-                <li><a href="">Changes</a></li>
-            </ul>
         </nav>
     </header>
-
-    <section>
-        <h1>"Hello! Sharing World"</h1>
-        <p>creative commons <span>global submit</span><span>2015</span></p>
-        <p>A joyful celebration believing in the value of openness and sharing, creating a positive change with people over 80 countries is taking place in october, in Korea </p>
+    <section class="main-section">
+        <h1 class="h1">"Hello!Sharing World"</h1>
+        <h2 class="main-title">PUSH YOUR CREATIVITY TO ITS LIMITS WITH AMAZING CHALLENGES HACKATHON 2022</h2>
+        <p class="resume">Hackathon or codefest, is a social coding event that brings computer programmers and other interested people together to improve upon or build a new software program.</p>
+        <div class="day">
+            <h3>From 7th(MOND)March ~ 12th(Frid)March, 2022</h3>
+            <p class="paragraph">@ Cap-kivu-Goma,DRC</p>
+        </div>
     </section>
+    <section class="program-section">
+        <h2 class="title">Main Program</h2>
+        <div class="main-program"></div>
+        <a href="" class="h4">
+            SEE THE WHOLE PROGRAM
+        </a>
+        <button type="button" class="join">
+                SEE THE WHOLE PROGRAM
+        </button>
+    </section>
+    <section class="feature-section" id="team">
+        <h2 class="lines">Featured Speakers</h2>
+        <div class="features">
+
+        </div>
+        <button type="button" class="collapse">
+                <span>Less</span>
+            <i class="fa-solid fa-circle-chevron-up"></i>
+        </button>
+    </section>
+    <footer>
+        <div class="part" id="partners">
+            <h2 class="partn">Partners</h2>
+            <ul class="partners">
+                <li>
+                    <img src="./images/mozilla.svg" alt="mozilla" class="partner">
+                </li>
+                <li>
+                    <img src="./images/google.png" alt="mozilla" class="partner">
+                </li>
+                <li>
+                    <img src="./images/linkedin.png" alt="mozilla" class="partner">
+                </li>
+                <li>
+                    <img src="./images/microsoft.png" alt="mozilla" class="partner par">
+                </li>
+            </ul>
+        </div>
+        <div class="logos">
+            <img src="./images/hackathon.png" alt="" class="img-logo">
+            <h2 class="hack">Hackathon <br>&copy; Copyright 2022/Ciragane Nicole/Goma-DRC <br> Some rights reserved</h2>
+        </div>
+    </footer>
 </body>
 
 </html>
