@@ -4,10 +4,12 @@
 body {
   background-image: url('./images/header.png');
   margin: 0;
+  font: 1.8em/1.4 base, "Source Sans Pro", Verdana, sans-serif;
 }
 
 html {
   scroll-behavior: smooth;
+  font-size: 62.5%;
 }
 
 :root {
@@ -239,12 +241,13 @@ h3 {
 }
 
 .join {
-  display: block;
+  display: inline-block;
   background-color: var(--secondary);
   padding: 20px;
   color: var(--primary);
   border: 3px solid var(--secondary);
   margin-top: 20px;
+  text-align: center;
 }
 
 .feature-section {
@@ -314,6 +317,7 @@ article {
 }
 
 .collapse {
+  display: inline-block;
   padding: 10px 50px;
   border: 3px solid var(--secondary);
   border-radius: 10px;
