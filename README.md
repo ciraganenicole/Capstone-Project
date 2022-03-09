@@ -1,6 +1,6 @@
 # Capstone-Project
 
-> This project, the capstone, is made at the end of each module in order to recap all skills we gain during the apprendship period. It helps us to master some skills and made researches about what seems not understanding during the program.
+> This project, the capstone, is made at the end of each module in order to recap all skills we gain during the apprendship period. It helps  to master some skills and made researches about what seems not understanding during the program.
 
 
 ## Built With
