@@ -71,10 +71,6 @@ h1 {
   transform: translateY(-100%);
 }
 
-.program-section a {
-  display: none;
-}
-
 .about-contact a {
   color: var(--text-color);
   font-family: 'lato', sans-serif;
@@ -154,18 +150,21 @@ nav .second-navbar.hide li a .change {
 }
 
 .main-section {
-  margin: 50px;
+  margin: 20px;
   margin-top: 40px;
   margin-bottom: 20px;
 }
 
 .h1 {
   color: var(--secondary);
-  font-size: 40px;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'lato', sans-serif;
+  margin-top: 130px;
 }
 
 .main-title {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 500;
   font-family: 'cocogoose', sans-serif;
   line-height: 50px;
@@ -323,7 +322,6 @@ article {
   border-radius: 10px;
   background-color: var(--background);
   color: var(--secondary);
-  width: 20%;
   margin-top: 50px;
 }
 
@@ -386,12 +384,11 @@ footer {
   align-items: center;
   margin: auto;
   width: 100%;
-  padding: 50px;
 }
 
 .about-h1 {
   text-align: center;
-  margin: 90px 0;
+  margin: 0;
 }
 
 .about-title {
@@ -529,7 +526,7 @@ footer {
   header {
     position: fixed;
     width: 100%;
-    margin-top: -100px;
+    margin-top: -130px;
   }
 
   .header {
@@ -560,7 +557,8 @@ footer {
     color: var(--primary);
     margin-right: 30px;
     text-decoration: none;
-    font-family: 'cocogoose', sans-serif;
+    font-family: 'lato', sans-serif;
+    font-weight: 600;
   }
 
   .black {
@@ -597,13 +595,15 @@ footer {
   .h1 {
     color: var(--secondary);
     font-size: 50px;
+    font-weight: 700;
+    font-family: 'lato', sans-serif;
   }
 
   .main-title {
     font-size: 50px;
     font-weight: 500;
     font-family: 'cocogoose', sans-serif;
-    line-height: 50px;
+    line-height: 70px;
     color: var(--seconderyColor);
     background-image: url("./images/font.jpg");
     background-size: cover;
@@ -636,7 +636,7 @@ footer {
     background-color: var(--text-color);
     color: var(--primary);
     font-family: 'lato', sans-serif;
-    padding: 30px;
+    padding: 50px 30px;
     margin: auto;
   }
 
@@ -644,6 +644,8 @@ footer {
     display: flex;
     text-align: center;
     justify-content: center;
+    margin: 40px 0;
+    padding: 0 90px;
   }
 
   .program {
@@ -671,9 +673,11 @@ footer {
   }
 
   .h4 {
+    display: block;
     text-decoration: none;
     color: var(--primary);
     border-bottom: 2px solid var(--primary);
+    margin-top: 20px;
   }
 
   .feature-section {
@@ -741,7 +745,7 @@ footer {
   }
 
   .collapse {
-    padding: 10px 50px;
+    padding: 10px 12px;
     border: 3px solid var(--secondary);
     border-radius: 10px;
     background-color: var(--background);
@@ -808,7 +812,7 @@ footer {
     justify-content: center;
     align-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 130px;
     width: 100%;
   }
 
@@ -882,7 +886,7 @@ footer {
   }
 
   .about-logos {
-    background-color: black;
+    background-color: #252627;
   }
 
   .join {
