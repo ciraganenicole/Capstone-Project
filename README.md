@@ -3,11 +3,16 @@
 > This project, the capstone, is made at the end of each module in order to recap all skills we gain during the apprendship period. It helps  to master some skills and made researches about what seems not understanding during the program.
 
 
+![ciraganenicole github io_Capstone-Project_(Nest Hub)](https://user-images.githubusercontent.com/72297212/157456475-a36a92c0-a30c-42be-b43e-6ba733abaf33.png)
+![ciraganenicole github io_Capstone-Project_](https://user-images.githubusercontent.com/72297212/157456951-27320b33-b48b-43cf-97d0-d00bd1d27f54.png)
+
+
+
 ## Built With
 
 - HTML, CSS & JAVASCRIPT
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://ciraganenicole.github.io/Capstone-Project/)
 
@@ -15,33 +20,9 @@
 ## Getting Started
 
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and run:
 
-### Prerequisites
-
-# Project Name
-
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+- git clone [git@github.com:ciraganenicole/Capstone-Project.git](git@github.com:ciraganenicole/Capstone-Project.git) in your terminal
 
 ### Prerequisites
 
@@ -82,6 +63,10 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- We are grateful to Cindy Shin for her amazing design
 
 
 ## 📝 License
