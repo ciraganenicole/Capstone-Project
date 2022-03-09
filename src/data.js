@@ -31,14 +31,14 @@ const speaker1 = {
 };
 const speaker2 = {
 
-  image: './images/soft1.png',
+  image: './images/Tina.jpeg',
   name: 'David',
   resume: 'Python lover',
   article: 'David is a python lover software developer since 2016, a master student in computer science at MIT. A CEO of CodeLovers and author of several programming books',
 };
 const speaker3 = {
 
-  image: './images/soft2.png',
+  image: './images/concepta.jpeg',
   name: 'Michael',
   resume: 'Software architecture',
   article: 'Michael is a programmer since 2006, he has several years of experience and during the period he learnt differents approch on webiste devlopment and author of programming courses on LinkedIn Learning.',
@@ -59,7 +59,7 @@ const speaker5 = {
 };
 const speaker6 = {
 
-  image: './images/Sylvia.png',
+  image: './images/concepta.jpeg',
   name: 'Sylvia',
   resume: 'Team leader',
   article: 'Lavanya is lead Instructor at Afro Fem Coders, a Master student in Data Science ar UC Berkeley, a coding instructor at the coder school Berkeley, and author of programming courses on LinkedIn Learning.',
