@@ -170,7 +170,7 @@ nav .second-navbar.hide li a .change {
   font-family: 'cocogoose', sans-serif;
   line-height: 50px;
   color: var(--seconderyColor);
-  background-image: url("../images/font.jpg");
+  background-image: url("./images/font.jpg");
   background-size: cover;
   background-position: center center;
   background-clip: initial;
@@ -605,7 +605,7 @@ footer {
     font-family: 'cocogoose', sans-serif;
     line-height: 50px;
     color: var(--seconderyColor);
-    background-image: url("../images/font.jpg");
+    background-image: url("./images/font.jpg");
     background-size: cover;
     background-position: center center;
     background-clip: initial;
