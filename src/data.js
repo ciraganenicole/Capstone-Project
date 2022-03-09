@@ -4,7 +4,7 @@ const project1 = {
   paragraph: 'Welcome each and every person present in this events(Organizers and participants)',
 };
 const project2 = {
-  image: './images/Lecture.png',
+  image: './images/open.png',
   title: 'Lecture',
   paragraph: 'Listen to the speakers from differents field speaking about what is hackathon',
 };
@@ -38,28 +38,28 @@ const speaker2 = {
 };
 const speaker3 = {
 
-  image: './images/concepta.jpeg',
+  image: './images/Lavanya.jpeg',
   name: 'Michael',
   resume: 'Software architecture',
   article: 'Michael is a programmer since 2006, he has several years of experience and during the period he learnt differents approch on webiste devlopment and author of programming courses on LinkedIn Learning.',
 };
 const speaker4 = {
 
-  image: './images/olivia.jpeg',
+  image: './images/Tina.jpeg',
   name: 'Olivia',
   resume: 'Full stack web developer and react lover',
   article: 'Olivia is lead Instructor, a Master student in Data Science ar UC Berkeley, a coding instructor at the coder school Berkeley, and author of programming courses on LinkedIn Learning.',
 };
 const speaker5 = {
 
-  image: './images/Tina.jpeg',
+  image: './images/Lavanya.jpeg',
   name: 'Tina',
   resume: 'Project manager',
   article: 'Tina is lead Instructor, a Master student in Data Science ar UC Berkeley, a coding instructor at the coder school Berkeley, and author of programming courses on LinkedIn Learning.',
 };
 const speaker6 = {
 
-  image: './images/concepta.jpeg',
+  image: './images/Tina.jpeg',
   name: 'Sylvia',
   resume: 'Team leader',
   article: 'Lavanya is lead Instructor at Afro Fem Coders, a Master student in Data Science ar UC Berkeley, a coding instructor at the coder school Berkeley, and author of programming courses on LinkedIn Learning.',
